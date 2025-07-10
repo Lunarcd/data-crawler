@@ -1,3 +1,4 @@
+[![Rust](https://github.com/Lunarcd/data-crawler/actions/workflows/rust.yml/badge.svg)](https://github.com/Lunarcd/data-crawler/actions/workflows/rust.yml)
 # 🩸 Blood Donation Info Crawler
 
 A Rust-powered data crawler that extracts educational content about **blood donation**, **blood types**, and related topics from trusted health organizations:
