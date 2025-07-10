@@ -1,4 +1,3 @@
-````markdown
 # 🩸 Blood Donation Info Crawler
 
 A Rust-powered data crawler that extracts educational content about **blood donation**, **blood types**, and related topics from trusted health organizations:
