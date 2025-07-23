@@ -108,7 +108,7 @@ Visit [RedCrossBlood.org](https://www.redcrossblood.org) for full details.
 ## 👨‍💻 Author
 
 **Nguyen Huynh Nhat Anh**
-🔗 [GitHub](https://github.com/Lunarcd)
+🔗 [GitHub](https://github.com/lunarcd)
 
 ## 🤝 Contributing
 
